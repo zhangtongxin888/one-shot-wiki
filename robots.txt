@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://one-shot.wiki
+Sitemap: https://one-shot.wiki/sitemap.xml
