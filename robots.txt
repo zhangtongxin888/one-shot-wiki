@@ -1,5 +1,6 @@
 User-Agent: *
 Allow: /
+Disallow: /_build/
 
 Host: https://one-shot.wiki
 Sitemap: https://one-shot.wiki/sitemap.xml

@@ -1,0 +1,12 @@
+{
+  "name": "one-shot-wiki",
+  "private": true,
+  "description": "Static One Shot Roblox guide. Source fragments in _build/pages, output committed at repo root for GitHub Pages.",
+  "scripts": {
+    "build": "python3 _build/build.py",
+    "lint": "python3 _build/lint.py",
+    "seo:audit": "python3 _build/seo_audit.py",
+    "test": "python3 _build/test.py",
+    "check": "python3 _build/build.py && python3 _build/lint.py && python3 _build/seo_audit.py && python3 _build/test.py"
+  }
+}
