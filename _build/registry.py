@@ -10,13 +10,13 @@ GAME_URL = "https://www.roblox.com/games/111600158364583/One-Shot"
 CSS = ["/_next/static/chunks/164kaxlsh5.z1.css", "/assets/answers.css"]
 
 PAGES = [
-    {"key": "home", "route": "/", "file": "index.html", "lastmod": "2026-10-02", "priority": "1", "changefreq": "weekly", "ads": True,
+    {"key": "home", "route": "/", "file": "index.html", "lastmod": "2026-10-15", "priority": "1", "changefreq": "weekly", "ads": True,
      "title": "One Shot Wiki (Roblox): Codes, Autumn Event, Ranked & Guides",
      "description": "One Shot Wiki for the Roblox one-bullet FFA: working codes (SUMMER, FREE13), the Autumn Event with 4 new guns until Oct 16, the new Ranked mode and duel tips.",
      "crumb": None, "faq": True},
-    {"key": "codes", "route": "/codes/", "file": "codes/index.html", "lastmod": "2026-10-02", "priority": "0.8", "changefreq": "weekly", "ads": True,
-     "title": "One Shot Codes (October 2026): SUMMER, FREE13 & Free Crates",
-     "description": "Working One Shot codes checked Oct 2, 2026: SUMMER (Release Crate) and FREE13 (Crate), disputed FREE12, expired codes, and how to redeem in the Store.",
+    {"key": "codes", "route": "/codes/", "file": "codes/index.html", "lastmod": "2026-10-15", "priority": "0.8", "changefreq": "weekly", "ads": True,
+     "title": "One Shot Codes (October 2026): FREE28, SUMMER & Free Crates",
+     "description": "Working One Shot codes checked Oct 15, 2026: FREE28 (Autumn Crate), SUMMER (Release Crate), disputed FREE13/FREE12, and how to redeem in the Store.",
      "crumb": "Codes", "faq": True},
     {"key": "how-to-play", "route": "/how-to-play/", "file": "how-to-play/index.html", "lastmod": "2026-10-02", "priority": "0.7", "changefreq": "monthly", "ads": True,
      "title": "How to Play One Shot on Roblox: Rules, Reload & First Match",
