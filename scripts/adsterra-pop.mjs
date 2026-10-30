@@ -62,3 +62,7 @@ function walk(dir) {
 }
 walk(out);
 console.log(`adsterra-pop: runtime=${rtPath} flipped=${flipped} added=${added} skipped=${skipped}`);
+
+// 2026-10-30: Pop + Social Bar only — strip Banner/Native and add Social Bar after every Pop injection,
+// so content rebuilds that re-run this script cannot bring Banner/Native back.
+await import("./adsterra-popsb.mjs");
