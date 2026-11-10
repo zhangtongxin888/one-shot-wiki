@@ -10,15 +10,15 @@ GAME_URL = "https://www.roblox.com/games/111600158364583/One-Shot"
 CSS = ["/_next/static/chunks/164kaxlsh5.z1.css", "/assets/answers.css"]
 
 PAGES = [
-    {"key": "home", "route": "/", "file": "index.html", "lastmod": "2026-11-02", "priority": "1", "changefreq": "weekly", "ads": True,
-     "title": "One Shot Wiki (Roblox): Codes FREE28 & SUMMER, 1v1 Ranked & Guides",
-     "description": "One Shot Roblox codes that work (Nov 2026): FREE28 and SUMMER. Plus the new 1v1 Duels, Ranked Season 2 (to Nov 7), how to play and aim tips.",
+    {"key": "home", "route": "/", "file": "index.html", "lastmod": "2026-11-09", "priority": "1", "changefreq": "weekly", "ads": True,
+     "title": "One Shot Wiki (Roblox): Codes FREE29 & SUMMER, 1v1 Duels & Guides",
+     "description": "One Shot Roblox codes that work (Nov 2026): FREE29 and SUMMER. Plus 1v1 Duels, Ranked Season 2 (ended Nov 7), the TRADING event and aim tips.",
      "crumb": None, "faq": True},
-    {"key": "codes", "route": "/codes/", "file": "codes/index.html", "lastmod": "2026-11-02", "priority": "0.8", "changefreq": "weekly", "ads": True,
-     "title": "One Shot Codes Roblox (November 2026): FREE28 & SUMMER Work",
-     "description": "2 working One Shot Roblox codes checked Nov 2, 2026: FREE28 (Autumn Crate) and SUMMER (Release Crate), plus disputed FREE13/FREE12 and where to redeem.",
+    {"key": "codes", "route": "/codes/", "file": "codes/index.html", "lastmod": "2026-11-09", "priority": "0.8", "changefreq": "weekly", "ads": True,
+     "title": "One Shot Roblox Codes (November 2026): FREE29 & SUMMER",
+     "description": "Two working One Shot Roblox codes, checked Nov 9, 2026: FREE29 and SUMMER. Plus disputed FREE28, FREE13 and FREE12, crate rewards and where to redeem.",
      "crumb": "Codes", "faq": True},
-    {"key": "how-to-play", "route": "/how-to-play/", "file": "how-to-play/index.html", "lastmod": "2026-11-02", "priority": "0.7", "changefreq": "monthly", "ads": True,
+    {"key": "how-to-play", "route": "/how-to-play/", "file": "how-to-play/index.html", "lastmod": "2026-11-09", "priority": "0.7", "changefreq": "monthly", "ads": True,
      "title": "How to Play One Shot on Roblox: Rules, 1v1 Duels & First Match",
      "description": "How One Shot on Roblox works: one bullet per gun, 8-player FFA and new 1v1 Duels, the reload window, the Beginner place and a step-by-step first match plan.",
      "crumb": "How to Play", "faq": True},
